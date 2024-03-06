@@ -7,3 +7,5 @@ Terminalden "npm i" yazarak modülleri indiriniz
 ```
 
 # Dikkat <img  src="https://cdn.discordapp.com/emojis/1162437021806100532.gif?size=96&quality=lossless">
+
+- Altyapıyı izinsiz paylaşmayın (MIT License ile korunmaktadır !)
