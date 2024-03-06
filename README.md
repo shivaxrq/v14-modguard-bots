@@ -1,1 +1,3 @@
-
+```js
+ALIN SİZE EN İYİ BOT AMK MODERASYON + GUARD
+```
