@@ -1,3 +1,5 @@
+- Starlarsanız belkide Pub v14 bot gelebilir
+
 ```js
 "cofnig.js" Dosyasını doldurunuz
 
