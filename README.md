@@ -1,13 +1,8 @@
-- Starlarsanız belkide Pub v14 bot gelebilir
+# discordjs_v14
+DiscordJS v14 slash ve prefix boş altyapı
 
-```js
-"cofnig.js" Dosyasını doldurunuz
+config.js dosyasına token yazarak kullanabilirsiniz. Dilerseniz index.js dosyasının en altındaki `client.login` kısmını silip yerine `client.login("BOT TOKENİ")` yazabilirsiniz.
 
-Terminalden "npm i" yazarak modülleri indiriniz
 
-"install-module.bat" ı çalıştırınız ve ardından "cmd = node ."
-```
-
-# Dikkat <img  src="https://cdn.discordapp.com/emojis/1162437021806100532.gif?size=96&quality=lossless">
-
-- Altyapıyı izinsiz paylaşmayın (MIT License ile korunmaktadır !)
+Destek için [discord.gg/egemen](https://discord.gg/egemen) adresine gelebilirsiniz.
+Destek için [MekanSenin.com.tr](https://mekansenin.com.tr) forum adresini kullanabilirsiniz.
