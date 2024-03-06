@@ -1,5 +1,8 @@
-```css
-"config.js" doldurdun ardından "cmd" girin
-"npm i" yazıp tüm modulleri indirin daha sonrasında "(node .)" botu başlatın
+```js
+"cofnig.js" Dosyasını doldurunuz
+
+Terminalden "npm i" yazarak modülleri indiriniz
+
+"install-module.bat" ı çalıştırınız ve ardından "cmd = node ."
 ```
 
